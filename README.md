@@ -1,6 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <a href="https://ibb.co/N6NMDtn"><img src="https![WhatsApp Image 2023-06-09 at 21 10 30](https://github.com/nimeshwhatsappbot/SL-Nimesh-bot-/assets/112799888/7e741aff-0c3a-4b4b-a0ca-a38161860f62)
+    <a href="https://ibb.co/N6NMDtn"><img src="https![https://ibb.co/25FSMhq ](https://github.com/nimeshwhatsappbot/SL-Nimesh-bot-/assets/112799888/7e741aff-0c3a-4b4b-a0ca-a38161860f62)
  " alt="01" border="0" /></a>
 </p>
 
