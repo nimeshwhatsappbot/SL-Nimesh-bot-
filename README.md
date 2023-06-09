@@ -22,7 +22,7 @@
 ---------
 
 ### SPECIAL THANKS T0:
-- 💖 | **Dinuwa Official²⁰²³(me)** 
+- 💖 | **SL-NIMESH-BOT²⁰²³(me)** 
 - 💖 | **Ikratos-MD-v1 owner** 
 - 💖 | **MR Nima** 
 - 💖 | **YanXiao** 
@@ -123,7 +123,7 @@
 
 <h1 align="center">RECODED BY</h1>
 <p align="center">
-<a href="https://github.com/dinuwah"><img src="https://i.imgur.com/V0AfM7N.jpeg" width="300" height="300" alt="Dinuwa Official²⁰²³"/></a>
+<a href="https://github.com/dinuwah"><img src="<a href="https://ibb.co/ChCx40f"><img src="https://i.ibb.co/qkqbh1v/Whats-App-Image-2023-06-09-at-21-08-31.jpg" alt="Whats-App-Image-2023-06-09-at-21-08-31" border="0" /></a>" width="300" height="300" alt="SL-NIMESH-BOT²⁰²³"/></a>
 </p>
 
 ----------
