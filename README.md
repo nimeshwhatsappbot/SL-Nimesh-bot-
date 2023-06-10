@@ -37,7 +37,7 @@
 
                     
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/94740804536">
+  <a href="https://wa.me/94779821229">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:dinethraoshada5@gmail.com">
@@ -51,7 +51,7 @@
 | <b>Railway<b>    | - <b><i>Fast Deloy.<br> - Faster than Koyeb. <br> - 24*7 work. <br> - Auto Reboot on Crash.<br> - 100% Commands work.<b><i>    | <b><i> - Requires a 6 months old GitHub Account to verify.<br> - 500 hours per monthlyusage.<br> - Crashing Due to 500 mb limited RAM. <br> - Not suitable for newly joined users.<b><i>
 | <b>Heroku ( Not Compatible )<b> | - <b><i>Fastest Deloy.<br> - Faster than Railway / Koyeb. <br> - 24*7 work. <br> - No Crash and auto reboot.<br> - 100% Commands work.<b><i> |<b><i> - No Cons. Just Deploy and Have fun.<b><i>|
     
-[![Dinuwa Official²⁰²³BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94740804536) 
+[![Dinuwa Official²⁰²³BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94779821229) 
 ---------
 
 ### a little about this bot
@@ -62,7 +62,7 @@
 ---------
 
 ## ``Group Panelku Hosting``
-[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S) 
+[![WHATSAPP](https://img.shields.io/badge/Groups%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Bopki6IOujj6amH7AooggW) 
 ---------
 
 ## ```HEROKU DEPLOYMENT```
