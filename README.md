@@ -10,7 +10,7 @@
 
 <h1 align="center">Dinuwa Official²⁰²³</h1>
 <p align="center">
-  <a href="[https://github.com/dinuwah]"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Dinuwa Official²⁰²³+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Dinuwa Official²⁰²³;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="[https://github.com/nimeshwhatsappbot]"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Dinuwa Official²⁰²³+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Dinuwa Official²⁰²³;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
