@@ -17,7 +17,7 @@
  <a href="#"><img title="Dinuwa Official²⁰²³" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-Dinuwa Official²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/https://chat.whatsapp.com/Bopki6IOujj6amH7AooggW"></a>
 
 ---------
 
