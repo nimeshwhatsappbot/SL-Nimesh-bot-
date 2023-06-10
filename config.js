@@ -11,7 +11,7 @@
 // • ImYanXiao
 // • Xtreshe (Beban)
 // • Dll
-
+// • Nimesh
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -42,21 +42,21 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
 global.sig = 'https://instagram.com/Dinuwa Official²⁰²³' //Link Instagrammu
-global.sgh = 'https://github.com/dinuwah' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.sgh = 'https://github.com/nimeshwhatsappbot' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/Bopki6IOujj6amH7AooggW'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '94779821229' //Nomor Danamu
+global.ppulsa = '94779821229' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94740804536' //Nomor Bot
-global.nomorown = '94740804536' //Nomor Owner
-global.namebot = 'Dinuwa-Official-USER-BOT-V2' //Nama Bot
-global.nameown = 'Dinuwa Official²⁰²³' // Nama Owner
+global.nomorbot = '94779821229' //Nomor Bot
+global.nomorown = '94741187952' //Nomor Owner
+global.namebot = 'SL-NIMESH-NIMA-BOT-' //Nama Bot
+global.nameown = 'MR NIMESH OFC²⁰²³' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,11 +65,11 @@ global.openAiapi = ''   // Paste your API key here from Openai website
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true] //Replace your number with your name
+  ['94779821229', 'SL-NIMESH-BOT²⁰²³', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['94740804536','94740804536','94740804536'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['94779821229','94779821229','94779821229'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -101,13 +101,13 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「▁ ▂ ▃ ▅ ▆ ▇ █💖Dinuwa Official²⁰²³💖█ ▇ ▆ ▅ ▃ ▂ ▁」' //Main Watermark
-global.wm2 = '▁ ▂ ▃ ▅ ▆ ▇ █Dinuwa Official²⁰²³█ ▇ ▆ ▅ ▃ ▂ ▁'
-global.wm3 = 'Dinuwa Official²⁰²³'
-global.footerTXT = `Dinuwa Official²⁰²³ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +94740804536`
+global.wm = '「▁ ▂ ▃ ▅ ▆ ▇ █💖SL-NIMESH-BOT²⁰²³💖█ ▇ ▆ ▅ ▃ ▂ ▁」' //Main Watermark
+global.wm2 = '▁ ▂ ▃ ▅ ▆ ▇ █SL-NIMESH-BOT²⁰²³█ ▇ ▆ ▅ ▃ ▂ ▁'
+global.wm3 = 'SL-NIMESH-BOT²⁰²³'
+global.footerTXT = `SL-NIMESH-BOT²⁰²³ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +9479821229`
 global.botdate = `▁ ▂ ▃ ▅ ▆ ▇ █💖█ ▇ ▆ ▅ ▃ ▂ ▁ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '▁ ▂ ▃ ▅ ▆ ▇ █Dinuwa Official²⁰²³█ ▇ ▆ ▅ ▃ ▂ ▁'
+global.titlebot = '▁ ▂ ▃ ▅ ▆ ▇ █SL-NIMESH-BOT²⁰²³█ ▇ ▆ ▅ ▃ ▂ ▁'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg'
 
@@ -153,18 +153,18 @@ global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
-global.dmenut = 'ଓ═Dinuwa Official²⁰²³┅═━–〈' //top
+global.dmenut = 'ଓ═SL-NIMESH-BOT²⁰²³┅═━–〈' //top
 global.dmenub = '┊💖' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
-global.dmenuf = '┗––––Dinuwa Official²⁰²³––––––✦' //footer
+global.dmenuf = '┗––––SL-NIMESH-BOT²⁰²³––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '▁ ▂ ▃ ▅ ▆ ▇ █ *💖 Dinuwa Official²⁰²³ 💖* █ ▇ ▆ ▅ ▃ ▂ ▁'
+global.dashmenu = '▁ ▂ ▃ ▅ ▆ ▇ █ *💖 SL-NIMESH-BOT²⁰²³ 💖* █ ▇ ▆ ▅ ▃ ▂ ▁'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊💖'                            //body
-global.cmenuf = 'Dinuwa Official²⁰²³\n'                //footer
-global.cmenua = '\n⌕ ▁▂▃▅▆▇█Dinuwa Official²⁰²³█▇▆▅▃▂▁ ⌕\n     ' //after
+global.cmenuf = 'SL-NIMESH-BOT²⁰²³\n'                //footer
+global.cmenua = '\n⌕ ▁▂▃▅▆▇█SL-NIMESH-BOT²⁰²³█▇▆▅▃▂▁ ⌕\n     ' //after
 global.pmenus = '┊'                              //pembatas menu selector
 
 global.htki = '––––––『' // Hiasan Titile (KIRI)
@@ -177,8 +177,8 @@ global.hsquere = ['⛶','❏','💖']
 /*============== STICKER WM ==============*/
 global.stickpack = 'Dinuwa Official²⁰²³'
 global.stickauth = `「 Dinuwa Official²⁰²³ 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ 💖 Dinuwa Official²⁰²³ 💖 '
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 💖 Dinuwa Official²⁰²³ 💖 '
+global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ 💖 SL-NIMESH-BOT²⁰²³ 💖 '
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 💖 SL-NIMESH-BOT²⁰²³ 💖 '
 
 global.multiplier = 38 // The higher, The harder levelup
 
