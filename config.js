@@ -41,7 +41,7 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/Dinuwa Official²⁰²³' //Link Instagrammu
+global.sig = 'https://youtube.com/@nimeshFF?feature=shares' //Link Instagrammu
 global.sgh = 'https://github.com/nimeshwhatsappbot' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/Bopki6IOujj6amH7AooggW'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
@@ -135,7 +135,7 @@ global.wait = '```「▁ ▂ ▃ ▅ ▆ ▇ █」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+94 74 080 4536'
+global.phn = '+94 77 982 1229'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -218,7 +218,7 @@ global.rpg = {
       gold: '🪙',
       emerald: '❇️',
       upgrader: '🧰'
-      
+      .alive : `❤️´
     }
     let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
     if (!results.length) return ''
